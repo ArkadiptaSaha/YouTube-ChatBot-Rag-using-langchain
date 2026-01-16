@@ -90,8 +90,8 @@ If the video is about `"Photosynthesis"`, the bot can answer things like:
 
 If you have questions or want to contribute:
 
-**Email:** your.email@example.com  
-**GitHub:** https://github.com/your-username
+**Email:** arkadiptasaha04@gmail.com  
+**GitHub:** https://github.com/ArkadiptaSaha
 
 Contributions, improvements, and feedback are welcome!
 
